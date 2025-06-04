@@ -9,6 +9,8 @@ A vibrant and responsive webpage created to promote the Pet-Friendly City Campai
 - 📋 Volunteer registration form
 - 🐶 Impact stories & pet adoption carousel
 - 💡 Sections on awareness, policies, resources & more
+- 💡 Added emojis wherever possible
+- 💡 popup Buttons
 
 ---
 
